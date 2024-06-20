@@ -35,27 +35,22 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 
 > [!NOTE]  
 > - The goal is to make sure that you are familiar with concepts of GitHub Copilot
-> - Your focus is not to complete the whole list of exercises within the allocated time.
-> - Instead enjoy each of these exercises and explore how GitHub Copilot can help you to tackle even unknown codebase 🙂
+> - Your focus should be to explore how GitHub Copilot can help you to tackle even unknown codebase 🙂
 
 ### Exercise 1
-1. Understand the logic for the ***exercise3.cpp*** and add sufficient inline documentation using GitHub Copilot. Create a README markdown file for the program.
-2. Add an additional feature to the existing solution using GitHub Copilot prompt crafting techniques and create a unit test plan for the new features. 
+1. Understand the COBOL file in ***exercise3.cbl*** and identify the underlying logic of the program.
+2. Translate the codebase in exercise2.cbl to Typescript using GitHub Copilot Chat
+3. Generate unit test cases for the newly created code 
+4. Generate the documentation for the new code (including README markdown file).
 
 ### Exercise 2
-1. Understand the COBOL file in ***exercise4.cbl*** and identify the underlying logic of the program. Translate the codebase in exercise2.cbl to C#, generate unit test cases for the code and corresponding documentation (including README markdown file).
-
-### Exercise 3
 
 1. Understand the existing logic in ***exercise5.cs*** and verify whether there are any existing issues/vulnerabilities. 
 2. Add an additional feature to the existing solution using GitHub Copilot prompt crafting techniques.
 3. Create unit test cases for the updated code and generate the documentation to the program in such a way that a person who is comparatively new to C# should be able to understand the logic.
 
-### Bonus
+### Exercise 3
 
-1. Verify the ***last_bonus_exercise.cpp*** program and verify how the smart pointer is implemented in the program.
-2. How can you modify the Animal class to add a new property to represent the age of the animal.
-3. How can you make the program thread safe?
-4. After making the above changes, create the unit test plan and add documentation.
+1. Double check with Thermofisher Team wherther we need a bonus Exercise
 
 ## You are now a champion of GitHub Copilot 🥳
