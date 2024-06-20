@@ -13,21 +13,15 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 ## Introduction Section
 
 ### Exercise 1
-1. Generate documentation for the ***exercise1.cpp*** without using GitHub Copilot chat
+1. Generate documentation for the ***exercise1.jsx*** without using GitHub Copilot chat
 
 > [!Tip]
 > For this exercise, try to use GitHub Copilot code completion option.
 
 ### Exercise 2
-1. Select ***exercise2.cpp*** and use GitHub Copilot Chat to understand the logic of the program. Generate the documentation and a README markdown file for the program.
-2. Add atleast 2 additional features to the existing C++ program of exercise2.cpp using GitHub Copilot
-3. Plan the unit testing of the additional features using GitHub Copilot
+1. Select ***exercise2.ts*** and use GitHub Copilot Chat to understand the logic of the program. Generate the documentation and a README markdown file for the program.
+2. Create a new feature where you can add a new power-up sprite to the game, which the caterpillar can collect to become invincible for 5 seconds.
    
-> [!Tip]
-> - Run the exercises on your IDE and if you encounter any compilation errors, ask GitHub Copilot to understand about the errors in terminal
-> - @terminal #terminalSelection fix or @terminal #terminalSelection explain 
-> - You can also ask GitHub Copilot by expanding more on the prompt.
-
 ### Exercise 3
 
 1. Translate the codebase you have created to C# (or Java), generate unit test cases for the code and corresponding documentation
