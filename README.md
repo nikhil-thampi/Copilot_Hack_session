@@ -24,11 +24,7 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
    
 ### Exercise 3
 
-1. Translate the codebase you have created to C# (or Java), generate unit test cases for the code and corresponding documentation
-
-### Exercise 4
-
-3. Create a new C++ workspace, which will call an API from US National Weather Service to get the current temperature for a specific zipcode or city. The code should evaluate the temperature and identify the corresponding climate for that region.
+1. Create a new Java workspace, which will call an API from US National Weather Service to get the current temperature for a specific zipcode or city. The code should evaluate the temperature and identify the corresponding climate for that region.
 
 
 > [!NOTE]  
