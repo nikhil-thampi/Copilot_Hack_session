@@ -26,11 +26,11 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 2. Create a new feature where you can add a new power-up sprite to the game, which the caterpillar can collect to become invincible for 5 seconds.
    
 ### Exercise 3
-
-1. Create a new Java workspace, which will call an API from US National Weather Service to get the current temperature for a specific zipcode or city. The code should evaluate the temperature and identify the corresponding climate for that region.
-2. Generate couple of unit test case scenarios for the newly created workspace.
+1. Understand the COBOL file in ***exercise3.cbl*** and identify the underlying logic of the program.
+2. Translate the codebase in exercise2.cbl to Python or Typescript using GitHub Copilot Chat
+3. Generate unit test cases for the newly created code 
+4. Generate the documentation for the new code (including README markdown file).
    
-
 
 > [!NOTE]  
 > You are doing great! 🥳
@@ -43,19 +43,14 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 > - Your focus should be to explore how GitHub Copilot can help you to tackle even unknown codebase 🙂
 
 ### Exercise 1
-1. Understand the COBOL file in ***exercise3.cbl*** and identify the underlying logic of the program.
-2. Translate the codebase in exercise2.cbl to Python or Typescript using GitHub Copilot Chat
-3. Generate unit test cases for the newly created code 
-4. Generate the documentation for the new code (including README markdown file).
+1. Create a new Java workspace, which will call an API from US National Weather Service to get the current temperature for a specific zipcode or city. The code should evaluate the temperature and identify the corresponding climate for that region.
+2. Generate two unit test case scenarios for the newly created workspace.
 
 ### Exercise 2
 
-1. Understand the existing logic in ***exercise5.cs*** and verify whether there are any existing issues/vulnerabilities. 
-2. Add an additional feature to the existing solution using GitHub Copilot prompt crafting techniques.
-3. Create unit test cases for the updated code and generate the documentation to the program in such a way that a person who is comparatively new to C# should be able to understand the logic.
-
-### Exercise 3
-
-1. Double check with Thermofisher Team wherther we need a bonus Exercise
+1. Identify the issue in ***exercise4.py*** and fix it using GitHub Copilot chat.
+2. Verify whether there are opportunities to refactor and optimize the existing code base.
+3. Generate unit test cases for the newly created code 
+4. Generate the documentation for the new code (including README markdown file).
 
 ## You are now a champion of GitHub Copilot 🥳
