@@ -44,7 +44,7 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 
 ### Exercise 1
 1. Understand the COBOL file in ***exercise3.cbl*** and identify the underlying logic of the program.
-2. Translate the codebase in exercise2.cbl to Typescript using GitHub Copilot Chat
+2. Translate the codebase in exercise2.cbl to Python or Typescript using GitHub Copilot Chat
 3. Generate unit test cases for the newly created code 
 4. Generate the documentation for the new code (including README markdown file).
 
