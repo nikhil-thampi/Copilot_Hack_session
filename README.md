@@ -28,6 +28,8 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 ### Exercise 3
 
 1. Create a new Java workspace, which will call an API from US National Weather Service to get the current temperature for a specific zipcode or city. The code should evaluate the temperature and identify the corresponding climate for that region.
+2. Generate couple of unit test case scenarios for the newly created workspace.
+   
 
 
 > [!NOTE]  
