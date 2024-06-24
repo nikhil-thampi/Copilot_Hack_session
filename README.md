@@ -7,7 +7,7 @@
 > - All attendees will be muted by default. Please raise your hand ✋ if you would like to discuss any topic and organizer of your room will unmute you.
 > - Do not worry if you are not getting same response from GitHub Copilot as other members in the breakout room. We just have to reiterate the prompt based on the 4 pillars of the Prompt crafting, to get better results.
 > - Complete the exercises in the sequential order.
-> - We will be using VS Code IDE for this Hack session. Please add GitHub Copilot and GitHub Copilot Chat Extensions to your CS Code IDE.
+> - We will be using [Microsoft Visual Studio Code](https://code.visualstudio.com/) IDE for this Hack session. Please also add GitHub Copilot and GitHub Copilot Chat Extensions to your Microsoft Visual Studio Code IDE.
 
 <img width="377" alt="image" src="https://github.com/user-attachments/assets/28585d0b-36f1-4cda-a9ba-aa14298af533">
 
