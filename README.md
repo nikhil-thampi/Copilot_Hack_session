@@ -53,4 +53,18 @@ This repo contains sample code exercises, which can be tested using GitHub Copil
 3. Generate unit test cases for the newly created code 
 4. Generate the documentation for the new code (including README markdown file).
 
+## Bonus Section
+
+> [!NOTE]
+> - This section has been created if you have already completed all the above exercises and is interested to try any additional scenarios.
+> - You can either complete this bonus section within the stipulated time of breakout session or can try it later as a practice exercise for GitHub Copilot
+
+### Exercise 1
+
+1. You are the software developer assigned to create a Java application to store student profile pictures for University. The student profile pictures should be stored in Azure Blob Storage and you have to link these profile pictures in Azure Blob to the corresponding row in Student table available in MSSQL Server database.
+2. Add a feature to check whether the profile picture provided is having a minimum pixel size of 600x600 pixels
+3. Add some additional features to handle some of the privacy requirements related to California Consumer Privacy Act
+4. Add a feature to securely store and encrypt student profile pictures using some of the Azure services
+5. Add a feature to retrieve and decrypt a student's profile picture using this application
+
 ## You are now a champion of GitHub Copilot 🥳
